@@ -11,7 +11,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 * Tuesday afternoon, 7 March: Updated notebooks 3, 4 (with solutions), and 5  uploaded.
 * Friday afternoon, 10 March: Notebooks "6-Numpy_Pandas", "7-Subroutines_and_OOP", "8-Advanced_Examples", "9-Exercises", "10-Download_your_Notebooks" as well as folders "advanced_example_scripts" and "function_example" uploaded.
 * Monday afternoon, 13 March: Updated notebooks 5, 6 (with solutions), and 7 uploaded.
-* *Tuesday afternoon, 14 March: All materials to be uploaded: All notebooks with solutions, notebooks as a single PDF, presentation slides.*
+* Tuesday afternoon, 14 March: All materials uploaded: all notebooks with solutions, notebooks as a single PDF, presentation slides.
 
 ## Set up Python
 
